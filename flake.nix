@@ -1,3 +1,4 @@
+# For NixOS development with UV, using Uv2Nix
 {
   description = "hello world application using uv2nix";
 
