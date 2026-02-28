@@ -1,4 +1,3 @@
 # git-showcase
 
-First branch created
-
+Second branch created
