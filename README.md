@@ -35,10 +35,6 @@ Future explorations and additions planned for this sandbox:
 autoSetupRemote = true
 ```
 
-```
-
-```
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
