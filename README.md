@@ -28,6 +28,17 @@ Future explorations and additions planned for this sandbox:
 - **Git Submodules & Subtrees:** Managing dependencies and external code within the project.
 - **GPG Signing:** Demonstrating signed commits for verified repository integrity.
 
+## Recommended git config
+
+```sh
+[push]
+autoSetupRemote = true
+```
+
+```
+
+```
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
